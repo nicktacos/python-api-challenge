@@ -1,0 +1,4 @@
+Three observable trends we see from the weather data plotted are:
+the closer you get to the equator, the higher the max temperature of the city; 
+humidity has no observable correlation with the latitude of a city;
+and wind speeds (acoording to data) has no observable correlation with the latitudes of a city.
